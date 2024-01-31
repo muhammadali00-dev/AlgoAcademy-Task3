@@ -1,20 +1,46 @@
 table.border {
   margin: auto;
+  margin-top: 50px;
   width: 500px;
   height: 500px;
-  border: 1px solid black;
+  border-collapse: collapse;
 }
 
 .Black {
-  background-color: #c57b41;
-  color: #c57b41;
+  background-color: #6d3807;;
+  color: #6d3807;
   width: 50px;
   height: 50px;
 }
 
 .White {
-  background-color: #fbdca2;
-  color: #fbdca2;
+  background-color: burlywood;
+  color: burlywood;
   width: 50px;
   height: 50px;
+}
+
+.numleft {
+  width: 10px;
+  padding: 10px;
+  background-color: #3a1c00;
+  color: white;
+}
+.numright {
+  width: 10px;
+  padding: 10px;
+  background-color: #3a1c00;
+  color: white;
+}
+.numbottom {
+  padding-left: 20px;
+  height: 32px;
+  background-color: #3a1c00;
+  color: white;
+}
+.numtop {
+  padding-left: 20px;
+  height: 32px;
+  background-color: #3a1c00;
+  color: white;
 }
