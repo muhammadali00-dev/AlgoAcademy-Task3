@@ -1,0 +1,20 @@
+table.border {
+  margin: auto;
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+}
+
+.Black {
+  background-color: #c57b41;
+  color: #c57b41;
+  width: 50px;
+  height: 50px;
+}
+
+.White {
+  background-color: #fbdca2;
+  color: #fbdca2;
+  width: 50px;
+  height: 50px;
+}
