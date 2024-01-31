@@ -1,0 +1,14 @@
+table.border {
+  margin: auto auto;
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+}
+
+
+.Black {
+  background-color: black;
+  width: 50px;
+}
+
+.White {color: white;}
